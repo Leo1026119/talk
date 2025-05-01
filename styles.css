@@ -1,0 +1,25 @@
+.message-card {
+    margin-bottom: 1rem;
+    border-left: 4px solid #007bff;
+}
+
+.message-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.message-time {
+    color: #6c757d;
+    font-size: 0.875rem;
+}
+
+.message-content {
+    white-space: pre-wrap;
+}
+
+.delete-btn {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.875rem;
+}
